@@ -19,6 +19,12 @@ I have broken this down into the following steps
 |hapi-tut-monolith-04c-customer|Validation and Error Handling|[04c-customers](https://github.com/quapaw/hapi-tut-monolith-04c-customers)|
 |hapi-tut-monolith-04d-customer|Unit Testing|[04d-customers](https://github.com/quapaw/hapi-tut-monolith-04d-customers)|
 |**hapi-tut-monolith-04e-customer**|**Add Mongo and API Docu**|**[04e-customers](https://github.com/quapaw/hapi-tut-monolith-04e-customers)**|
+|hapi-tut-monolith-05-customer|Combine work with products for full deployment|[05-customers](https://github.com/quapaw/hapi-tut-monolith-05-customers)|
+|hapi-tut-monolith-05-product|Combine work with products for full deployment|[05-products](https://github.com/quapaw/hapi-tut-monolith-05-product)|
+|hapi-tut-monolith-05-main|Combine work with products for full deployment|[05-main](https://github.com/quapaw/hapi-tut-monolith-05-main)|
+
+
+
 
 
 #HAPI Tutorial - Monolith - 4 - Move toward production
